@@ -2,6 +2,10 @@
 
 A small Rust test project for animated models and ragdoll physics, using Bevy 0.19 and Avian 0.7.
 
+![Live demo showing both character animations and the ragdoll physics toggle](docs/demo.gif)
+
+*Recorded in the running app: two animations, then a switch to ragdoll physics.*
+
 ## Run
 
 Install Rust, then run from the project folder:
